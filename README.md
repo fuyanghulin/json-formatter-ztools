@@ -27,8 +27,8 @@ npm run verify
 
 发布产物位于 `release/`：
 
-- `json-formatter-1.0.0.zpx`：ZTools 安装包
-- `json-formatter-1.0.0.zip`：兼容 ZIP 安装包
+- `json-formatter-1.0.1.zpx`：ZTools 安装包
+- `json-formatter-1.0.1.zip`：兼容 ZIP 安装包
 
 快捷键：`Ctrl + Enter` 立即格式化，`Ctrl + Shift + C` 复制结果，`Ctrl + Shift + V` 从剪贴板粘贴。
 
@@ -59,7 +59,7 @@ git status
 
 ```bash
 git add .
-git commit -m "chore: release v1.0.0"
+git commit -m "chore: release v1.0.1"
 ```
 
 ### 3. 创建发布 PR
